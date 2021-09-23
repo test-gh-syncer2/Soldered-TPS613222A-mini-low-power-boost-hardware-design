@@ -150,7 +150,7 @@
 
   (footprint "buzzardLabel" (layer "F.Cu")
     (tedit 0) (tstamp 1968fa54-64f4-4601-a9f2-ae58e55a78eb)
-    (at 130.4 113 90)
+    (at 111.5 113 90)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "" (at 0 0 90) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -2950,7 +2950,7 @@
 
   (footprint "buzzardLabel" (layer "F.Cu")
     (tedit 0) (tstamp a74d42d2-e9f1-4790-95e8-ef0bd8cea6e8)
-    (at 128.4 113 90)
+    (at 113.5 113 90)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "" (at 0 0 90) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -3589,7 +3589,7 @@
 
   (footprint "Soldered Graphics:Logo-Front-SolderedFULL-13mm" (layer "F.Cu")
     (tedit 60701FE6) (tstamp eea26685-6d2e-47fa-b73f-ed6b0bcbc4b2)
-    (at 113 113 90)
+    (at 129.5 113.8 90)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -0.5 90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
